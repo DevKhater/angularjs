@@ -1,0 +1,39 @@
+{
+    "records": [
+        {
+            "name": "name1",
+            "age": "age1",
+            "color": "yellow"
+        },
+        {
+            "name": "mame2",
+            "age": "age1",
+            "color": "blue"
+        },
+        {
+            "name": "hamdy",
+            "age": "age1",
+            "color": "green"
+        },
+        {
+            "name": "sonson",
+            "age": "age1",
+            "color": "orange"
+        },
+        {
+            "name": "hopa",
+            "age": "age1",
+            "color": "delta"
+        },
+        {
+            "name": "gomra",
+            "age": "age1",
+            "color": "white"
+        },
+        {
+            "name": "Abo Nagwa",
+            "age": "age1",
+            "color": "black"
+        }
+    ]
+}
